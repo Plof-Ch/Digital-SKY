@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <rect width="48" height="48" rx="10" fill="url(#vtbBg)"/>
+  <g fill="#fff">
+    <path d="M10 14.2h22.5l5.5 4.2H15.5L10 14.2Z"/>
+    <path d="M10 21.9h22.5l5.5 4.2H15.5L10 21.9Z"/>
+    <path d="M10 29.6h22.5l5.5 4.2H15.5L10 29.6Z"/>
+  </g>
+  <defs>
+    <linearGradient id="vtbBg" x1="6" y1="4" x2="44" y2="46" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A4CCC"/>
+      <stop offset=".55" stop-color="#0050B5"/>
+      <stop offset="1" stop-color="#003A8C"/>
+    </linearGradient>
+  </defs>
+</svg>
